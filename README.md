@@ -14,7 +14,6 @@ A game launcher designed to easily proxy traffic from anime game to private serv
   - [Building](#building)
   - [Code Formatting and Linting](#code-formatting-and-linting)
   - [Generating Update Artifacts](#generating-update-artifacts)
-- [Theming](#theming)
 - [Credits](#credits)
 
 # Client Patching Notice
@@ -36,7 +35,7 @@ Download and open the MSI, and once installed, run Cultivation as administrator.
   - If you are on Windows 7, or the MSI doesn't work, use the zip and download [WebView](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)
   - If you are on Linux or MacOS, [help us port Windows-specific system calls to Linux/MacOS!](https://github.com/Grasscutters/Cultivation/issues/7)
 - Install or extract Cultivation
-- Open Cultivation **_as administrator_**
+- Open **_as administrator_**
 - Before clicking randomly on stuff, in options (top right cog icon), set your Game Install Path.
   - If you are using an existing server installation from somewhere else, you can set the `.jar` file in settings as well. All downloads made through Culti will automatically use that path, no additional config needed.
   - If you use multiple Java versions, you can set the Java path to your Java 17 installation (only required if you are running your own server)
@@ -93,9 +92,7 @@ Check Lints, fix (some) lints:
 
 The update will be at `src-tauri/target/(release|debug)/msi/Cultivation_X.X.X_x64_xx-XX.msi.zip`
 
-# Theming
 
-A full theming reference can be found [here!](/THEMES.md)
 
 ## Credits
 
