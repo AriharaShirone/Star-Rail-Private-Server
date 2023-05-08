@@ -24,7 +24,7 @@ For game versions 1.0 and above, Cultivation automatically makes a small patch t
 
 [Download the latest version! ](https://goo.su/gens_priv) (ayaka)
 
-Download and open the MSI, and once installed, run Cultivation as administrator. Refer below for more [detailed setup instructions](#setup).
+Download and open the MSI, and once installed, run  as administrator. Refer below for more [detailed setup instructions](#setup).
 
 **Windows 7 Users:** You will need to download [WebView](https://developer.microsoft.com/en-us/microsoft-edge/webview2/#download-section) manually, and download the `.zip` instead of the `.msi`.
 
