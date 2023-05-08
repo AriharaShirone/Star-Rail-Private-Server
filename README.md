@@ -15,12 +15,11 @@ A game launcher designed to easily proxy traffic from anime game to private serv
   - [Code Formatting and Linting](#code-formatting-and-linting)
   - [Generating Update Artifacts](#generating-update-artifacts)
 - [Theming](#theming)
-- [Screenshots](#screenshots)
 - [Credits](#credits)
 
 # Client Patching Notice
 
-For game versions 2.8 and above, Cultivation automatically makes a small patch to your game client when launching using Grasscutter, and restores it upon closing the game. In theory, you should still be totally safe, however it would be dishonest to not explicitly state that **modifying the game client could, theoretically, lead to a ban if you connect to official servers with it**. It is extremely unlikely AND there are no instances known of it happening, but the possibility exists.
+For game versions 1.0 and above, Cultivation automatically makes a small patch to your game client when launching using Grasscutter, and restores it upon closing the game. In theory, you should still be totally safe, however it would be dishonest to not explicitly state that **modifying the game client could, theoretically, lead to a ban if you connect to official servers with it**. It is extremely unlikely AND there are no instances known of it happening, but the possibility exists.
 
 # Download
 
@@ -97,14 +96,6 @@ The update will be at `src-tauri/target/(release|debug)/msi/Cultivation_X.X.X_x6
 # Theming
 
 A full theming reference can be found [here!](/THEMES.md)
-
-# Screenshots
-
-![image](https://user-images.githubusercontent.com/25207995/173211603-e5e85df7-7fd3-430b-9246-749ebbc1e483.png)
-![image](https://user-images.githubusercontent.com/25207995/173211543-b7e88943-cfd2-418b-ac48-7f856868129b.png)
-![image](https://user-images.githubusercontent.com/25207995/173211561-a1778fdc-5cfe-4687-9a00-44500d29e470.png)
-![image](https://user-images.githubusercontent.com/25207995/173211573-8cedfa9a-51c9-4670-a4f7-a334a2fabec5.png)
-![image](https://user-images.githubusercontent.com/25207995/173211590-6a2242b5-1e8f-4db9-a5c7-06284688b131.png)
 
 ## Credits
 
