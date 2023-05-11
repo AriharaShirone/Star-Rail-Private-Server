@@ -1,6 +1,5 @@
 EN | [简中](README_zh-CN.md) | [繁中](README_zh-TW.md) |
 
-# Cultivation
 
 A game launcher designed to easily proxy traffic from anime game to private servers.
 
@@ -22,7 +21,7 @@ For game versions 1.0 and above, Cultivation automatically makes a small patch t
 
 # Download
 
-[Download the latest version! ](https://goo.su/34gfdgb) (seele)
+[Download the latest version! ](https://goo.su/rew4324) (seele)
 
 Download and open the MSI, and once installed, run  as administrator. Refer below for more [detailed setup instructions](#setup).
 
